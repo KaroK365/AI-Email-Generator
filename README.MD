@@ -1,5 +1,3 @@
----
-
 # Email Automation Tool with AI-Powered Replies
 
 ## Overview
@@ -63,4 +61,3 @@ Pull requests are welcome. Open an issue for feature requests or bug reports.
 
 This project is licensed under **MIT License**.
 
----

@@ -64,5 +64,3 @@ Pull requests are welcome. Open an issue for feature requests or bug reports.
 This project is licensed under **MIT License**.
 
 ---
-
-This README gives a clear installation guide and project details. Let me know if you need any modifications! 🚀

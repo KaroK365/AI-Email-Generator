@@ -1,5 +1,3 @@
-Here’s a README file for your project:
-
 ---
 
 # Email Automation Tool with AI-Powered Replies
